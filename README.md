@@ -18,6 +18,23 @@
   <img src="https://img.shields.io/badge/Docker-Sandboxed-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
+<br/>
+
+<table align="center">
+  <tr>
+    <th>🔗 Source Code</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Deepesh1024/blastshield-prodsim"><b>📡 blastshield-prodsim</b></a></td>
+    <td>Backend — Lambda orchestrator, EC2 sandbox server, AI analysis engine</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Deepesh1024/blastshield-extension"><b>🧩 blastshield-extension</b></a></td>
+    <td>VS Code Extension — Observability dashboard, failure maps, incident replay</td>
+  </tr>
+</table>
+
 ---
 
 ## 🎯 What is BlastShield?
