@@ -1,0 +1,6 @@
+[submodule "blastshield-agent"]
+	path = blastshield-agent
+	url = https://github.com/Deepesh1024/blastshield-prodsim.git
+[submodule "blastshield-extension"]
+	path = blastshield-extension
+	url = https://github.com/Deepesh1024/blastshield-extension.git
